@@ -2,13 +2,17 @@
   
   
 👩🏻‍🎓 Desenvolvedora Java FullStack em formação pelo bootcamp da Generation Brasil.
-☕ Estudando Java.
-🧵 Gosto de costurar nas horas vagas.
-😄 Pronomes: Ela/Dela
+
+  ☕ Estudando Java.
+
+  🧵 Gosto de costurar nas horas vagas.
+
+  😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/tholivera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholivera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholivera&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
