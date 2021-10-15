@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thaís <div> 
+## Olá! Eu sou a Thaís 👋🏻
   
   
 👩🏻‍🎓 Desenvolvedora Java FullStack em formação pelo bootcamp da Generation Brasil.
