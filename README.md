@@ -1,13 +1,9 @@
 ## Olá! Eu sou a Thaís 👋🏻
   
   
-👩🏻‍🎓 Desenvolvedora Java FullStack em formação pelo bootcamp da Generation Brasil.
+👩🏻‍🎓 Desenvolvedora Java FullStack Jr.
 
-  ☕ Estudando Java.
-
-  🧵 Gosto de costurar nas horas vagas.
-
-  😄 Pronomes: Ela/Dela
+😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/tholivera">
