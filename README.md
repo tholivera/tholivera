@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thaís 👋🏻
+## Olá! Eu sou a Thaís
   
   
 👩🏻‍🎓 Desenvolvedora Java FullStack Jr.
