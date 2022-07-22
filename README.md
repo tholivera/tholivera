@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Thaís
   
   
-👩🏻‍🎓 Estagiária de Desenvolvimento Front-End
+👩🏻‍🎓 Estagiária de Desenvolvimento Front-End - Itaú Unibanco
 
 👩 Engenheira de Produção
 
