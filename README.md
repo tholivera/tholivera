@@ -2,7 +2,9 @@
   
   
 👩🏻‍🎓 Estagiária de Desenvolvimento Front-End
+
 👩 Engenheira de Produção
+
 😄 Pronomes: Ela/Dela
 
 <div align="center">
