@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Thaís
   
   
-👩🏻‍🎓 Desenvolvedora Java FullStack Jr.
+👩🏻‍🎓 Estagiária de Desenvolvimento Front-End
 
 😄 Pronomes: Ela/Dela
 
