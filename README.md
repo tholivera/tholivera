@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Thaís
   
   
-👩🏻‍🎓 Estagiária de Desenvolvimento Front-End - Itaú Unibanco
+☕ Desenvolvedora Full-Stack Java 
 
 👩 Engenheira de Produção
 
