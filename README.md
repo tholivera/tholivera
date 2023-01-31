@@ -1,11 +1,4 @@
-## Olá! Eu sou a Thaís
-  
-  
-☕ Desenvolvedora Full-Stack Java 
-
-👩 Engenheira de Produção
-
-😄 Pronomes: Ela/Dela
+## Olá! 
 
 <div align="center">
   <a href="https://github.com/tholivera">
